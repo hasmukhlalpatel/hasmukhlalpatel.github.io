@@ -1,0 +1,142 @@
+{
+    "summaryOfExperience": {
+        "experienciences": [
+            "Senior Software Engineer/Developer/Technical Architect with 20+ years of experience in architecture, design, and development of microservices and SOA-based desktop and web applications across the finance, gaming & gambling, retail, and hospitality domains. Proven expertise in all phases of the software development lifecycle in an Agile environment, utilizing test-driven development.",
+            "6+ years of hands on solid experience of cloud technologies & microservices Azure, App Service, Azure functions, Storage, EventGrid, Service bus, Cosmos DB, Azure Sql, Application Gateway, API Management service, Redis cache, AKS, Service Fabrice, ADF, Batch jobs.",
+            "10+ years of Extensive knowledge and coding experience as C#, .Net, .Net core, LINQ, WPF, ASP.NET, ASP.NET MVC, Web API, WCF, Windows Forms and Web Services.",
+            "5+ years of hands on experience as full stack developer with MVC, RESTful API, Blazor and JavaScript frameworks like Angular, React, Knockout.js & Angular.Js.",
+            "Successfully delivered green field projects, upgrade/refactor projects, and migrated projects to Azure using microservices with event-driven and domain-driven patterns.",
+            "Extensive experience in participating in sprint reviews, planning and estimates meetings with stakeholders to plan work items for the next iteration/sprint, attending daily stand-up/Scrum meetings using an Agile methodology, conducting code reviews, pair programming.",
+            "Strong adherence to SOLID, DRY, SOC, and TDD principles and design patterns to achieve object-oriented design, clean code, loosely coupled, highly cohesive, testable, reusable, and maintainable."
+        ]
+    },
+    "skillSet": {
+        "skillCategories": [
+            {
+                "name": "Languages & Technologies",
+                "skills": "C#, .NET Core, .NET Framework, WPF, ASP.NET MVC, Blazor, Angular, React, AngularJS, Knockout.js, WCF, F#, Silverlight, Workflow, VC++, Java, TypeScript, Python"
+            },
+            {
+                "name": "Databases",
+                "skills": "MS SQL Server, Oracle, Cosmos DB, MongoDB, Elasticsearch, Vertica database, PostgreSQL"
+            },
+            {
+                "name": "ORM(Object-Relational Mapping)",
+                "skills": "Entity Framework, Dapper, LINQ to SQL, nHibernet"
+            },
+            {
+                "name": "Source controls & CI/CD",
+                "skills": "Github, Azure DevOps, Github actions, Octopus, VSTS, GIT, TFS, Perforce, SVN, VSS"
+            },
+            {
+                "name": "Unit Testing Tools",
+                "skills": "xUnit, NUnit, MS Test, Moq, Rhino.Mocks, NSubstitute, SpecFlow, NSpec, Selenium"
+            },
+            {
+                "name": "DI Tools",
+                "skills": "Unity, Ninject, Simple Injector, DryIOC"
+            },
+            {
+                "name": "Architectural Design Patterns",
+                "skills": "MV*, MVC, MVVM, MVP, Micro-services, CQRS, Event sourcing, SOA"
+            },
+            {
+                "name": "Other tools & Technologies",
+                "skills": "ReSharper, Razor, AutoMapper, MediatR, OData, GraphQL, LINQ, Terraform, Identity Server, oauth2, OIDC, Swagger, HTML, CSS, JavaScript, MVVM lite, Prism, Web Services, PL-Sql, NodeJs, T4 Template"
+            },
+            {
+                "name": "Cloud computing",
+                "skills": "Web Apps, App Service, Azure functions, Storage, Azure EventGrid, Service bus, Cosmos DB, Azure Sql, Azure Application Gateway, API Management service, Azure AD, Redis cache, Docker (container-instances), AKS, service Fabrice, ADF, Batch jobs, AWS (EC2, S3)"
+            },
+            {
+                "name": "Domain knowledge",
+                "skills": "finance, banking, insurance, gaming & gambling, taxation, Retail & hospitality, e-commerce, supply chain, marketing"
+            }
+        ]
+    },
+    "workExperiences": [
+        {
+            "from": "May 2022",
+            "to": "Jan 2023",
+            "employerName": "A Finance services",
+            "location": "London, UK",
+            "jobTitle": "Senior Software Engineer (Contract)",
+            "cvProjects": [],
+            "rolesAndResponsibilities": [
+                "Served as a Senior Software Engineer (Contract) with a cross functional team of 6+ developers."
+            ],
+            "technologies": "C#, .Net 6, .net standard 2.1, Azure EventGrid, Azure Service Bus, Storage, Azure App Service, Azure Functions, Azure Key Vault, Azure Monitor, Applications Insights, Cosmos DB, Infrastructure as code (IaC), Terraform, ADF, Asp.Net Web API, Azure AD, Redis cache, MediatR, xUnit, Autofac, Moq, Github, CI/CD, Octopus, Docker, grafana, Jira and Confluence"
+        },
+        {
+            "from": "Jun 2019",
+            "to": "May 2022",
+            "employerName": "A Finance services",
+            "location": "Greater London, UK",
+            "jobTitle": "Technical Architect/ Lead Developer (Contract)",
+            "cvProjects": [],
+            "rolesAndResponsibilities": [
+                "Architect with a product team responsible for technical leadership and management of a development team of 6 senior to junior developers."
+            ],
+            "technologies": "C#, Azure, .NET 4, .NET Core, .Net, Asp.Net MVC, RESTful API, Swagger, SQL server, Entity Framework, Dapper, MediatR, OData, Identity Server, Blazor, Angular & RxJS, React & redux, MSTest, xUnit, Ninject, AutoMapper, Moq, Specflow, Docker, Azure Application Gateway, Web Apps/App service, Azure Functions, Azure DevOps, Azure AD, Git, CD/DI"
+        },
+        {
+            "from": "May 2018",
+            "to": "May 2019",
+            "employerName": "A Finance services",
+            "location": "London, UK",
+            "jobTitle": "Developer (Contract)",
+            "cvProjects": [],
+            "rolesAndResponsibilities": [
+                "Redesigned, refactored Faster payments to process high-transaction, high-throughput, low-latency, multi-threaded, resilient, and scalable cloud applications using microservice architecture under an Agile environment (SCRUM) with TDD/BDD",
+                "Redesigned & Developed transaction s Audit & Interest calculation for customer accounts.",
+                "Collaborated with Scrum Master, Architect, Business Analyst, QA and Web Designers to estimate Backlog items, participate in sprint reviews and planning, conduct code reviews, maintain code quality, and write unit, component, and E2E tests to ensure the integrity of microservices."
+            ],
+            "technologies": ": C#, Service fabric, .Net 4.6/Core, .net standard 2.0, Azure, Service fabric, Service Bus, storage, Asp.Net Core 2, Web API, Azure functions, Cosmos DB, Azure SQL, Entity Framework, Dapper, MSTest, xUnit, Autofac, EXpressMapper, Moq, SpecFlow, Selenium & NSpec, Azure DevOps (Git), CI/CD, GraphQL, Elasticsearch & Kibana, Redis cache, Docker, Kubernetes, Infrastructure as code (IaC), Terraform"
+        },
+        {
+            "from": "Feb 2016",
+            "to": "May 2018",
+            "employerName": "A Finance services",
+            "location": "Greater London, UK",
+            "jobTitle": "Lead Developer / Application Architect (Contract)",
+            "cvProjects": [],
+            "rolesAndResponsibilities": [
+                "Led a team of 4 developers in the Architect, design, and development of resilient and scalable cloud applications using microservice architecture with SSO under an Agile environment with TDD/BDD",
+                "Close collaboration with solution architects, project managers, report developers, QA, and web designers to estimate projects, conduct impact analysis, plan resources, and participate in sprint reviews and planning.",
+                "Translation of requirements into strong technical designs, creation of prototypes and frameworks to solve complex problems, simplification of complex technical concepts, and accounting for non-functional requirements such as performance, usability, security, and scalability.",
+                "Advising team members on design patterns, conducting code reviews, maintaining code quality, and mentoring permanent staff members.",
+                "Upgrading/migrating online Portals from AngularJS to Angular 4 and implementing e-signature & Identity Server 4.",
+                "Work on a bespoke group of applications (Cordis) that contains loan and lease product processing, a pricing engine, CRM, asset management, and finance microservices integrated with credit report, e-signature, and payment services."
+            ],
+            "technologies": "C#, F#, Azure, .Net 4.5, Net Core 2, MVC 5, WEB API 2, Swagger, SQL server, Entity Framework, Identity Server, OAuth, HTML5, CCS3, bootstrap, LESS, TypeScript, Angular 4, JavaScript, jQuery, Webpack, Gulp, MSTest, xUnit, Ninject, AutoMapper, Moq, TFS with CD/DI"
+        }
+    ],
+    "educations": [
+        {
+            "degree": "Master of commerce",
+            "universityName": "South Gujarat University",
+            "location": "Surat, India",
+            "from": "May 1997",
+            "to": "Apr 1999",
+            "subjects": []
+        },
+        {
+            "degree": "Bachelor of commerce",
+            "universityName": "South Gujarat University",
+            "location": "Surat, India",
+            "from": "May 1994",
+            "to": "Apr 1997",
+            "subjects": []
+        }
+    ],
+    "courcesAndCertifications": [
+        {
+            "degree": "Higher Diploma in Software",
+            "universityName": "Aptech Computer Education",
+            "location": "Surat, India",
+            "from": "May 1997",
+            "to": "Apr 1999",
+            "subjects": []
+        }
+    ]
+}
