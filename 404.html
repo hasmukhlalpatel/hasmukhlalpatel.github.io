@@ -1,24 +1,28 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Client Redirect</title>
+    <title>Angular Client Redirect</title>
 </head>
 <body>
     <p>This is the current page content.</p>
     <script type="text/javascript">
         function redirectToPage() {
-            var destinationUrl = "destination.html";
+            var destinationUrl = window.location.pathname;
+            var queryString= window.location.search;
+
+            // var queryParameters = {
+            //     param1: "value1",
+            //     param2: "value2"
+            // };
             
-            var queryParameters = {
-                param1: "value1",
-                param2: "value2"
-            };
+            // var queryString = Object.keys(queryParameters).map(function (key) {
+            //     return key + '=' + encodeURIComponent(queryParameters[key]);
+            // }).join('&');
             
-            var queryString = Object.keys(queryParameters).map(function (key) {
-                return key + '=' + encodeURIComponent(queryParameters[key]);
-            }).join('&');
-            
-            window.location.href = destinationUrl + "?" + queryString;
+            //window.location.href = destinationUrl + "?" + queryString;
+
+            window.location.href = 'redirectToPage?' +
+             encodeURIComponent(queryString ==='' ? pathname : pathname + queryString);
         }
         
         // Call the function to initiate the redirect
